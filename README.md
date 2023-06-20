@@ -78,7 +78,7 @@ https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-te
 단순히 bs4, selenium, request를 써서 웹 상의 데이터를 가져오는 것이 크롤링이라고 할 수 있을까?
 내 생각에는 절대 그렇지 않다
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/185fd82c-eecd-4959-99a0-4e43711e219a/Untitled.png)
+![notion](https://file.notion.so/f/s/185fd82c-eecd-4959-99a0-4e43711e219a/Untitled.png?id=b45bf154-cd5a-4e74-8e5a-924d4847970d&table=block&spaceId=823889bb-fa3b-4ccb-a4a3-0250bfde50bc&expirationTimestamp=1687314161756&signature=EPF34V615nMWUaG9sVnxdL-Q1Wa0ktA3ieX9844Ye3g&downloadName=Untitled.png)
 
 - 위 이미지의 아키텍쳐 구조만 보더라도 **Fetcher, Parser, Frontier**가 보인다
     - **Frontier**가 탐색할 URL를 **Fetcher**에게 넘기면 해당 DOM을 **Parser**에게 넘긴다
